@@ -1,0 +1,3 @@
+Values referenced by this screen:
+colors: @color/gray_40
+styles: @style/robot_medium, @style/roundStyle_4

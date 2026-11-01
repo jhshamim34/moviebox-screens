@@ -1,0 +1,4 @@
+Values referenced by this screen:
+colors: @color/text_01, @color/text_02
+dimens: @dimen/tab_bottom_show_height
+strings: @string/music_play_all, @string/music_videos

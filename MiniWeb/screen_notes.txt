@@ -1,0 +1,2 @@
+Values referenced by this screen:
+dimens: @dimen/mini_dp_56, @dimen/mini_dp_57

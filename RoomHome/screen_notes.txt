@@ -1,0 +1,5 @@
+Values referenced by this screen:
+colors: @color/bg_01, @color/brand_new_gradient_center, @color/brand_new_gradient_end, @color/brand_new_gradient_start, @color/color_191F2B, @color/transparent, @color/white
+styles: @style/style_import_text, @style/style_medium_text
+dimens: @dimen/dp_12
+strings: @string/appbar_scrolling_view_behavior, @string/film_review_post, @string/home_room_title, @string/room_offline_guide_desc

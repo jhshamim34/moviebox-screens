@@ -1,0 +1,5 @@
+Values referenced by this screen:
+colors: @color/gray_dark_00, @color/task_orange, @color/white, @color/white_20, @color/white_30, @color/white_50
+styles: @style/ClaimFieldInput, @style/ClaimFieldLabel, @style/style_text_400, @style/style_text_700
+dimens: @dimen/dimens_48, @dimen/dp_12, @dimen/dp_16, @dimen/sp_16
+strings: @string/claim_btn_submit, @string/claim_hint_address, @string/claim_hint_alt_phone, @string/claim_hint_email, @string/claim_hint_fullname, @string/claim_hint_main_phone, @string/claim_hint_postal, @string/claim_label_address, @string/claim_label_alt_phone, @string/claim_label_email, @string/claim_label_fullname, @string/claim_label_main_phone, @string/claim_label_postal, @string/claim_reward_subtitle, @string/claim_reward_title

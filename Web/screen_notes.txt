@@ -1,0 +1,3 @@
+Values referenced by this screen:
+colors: @color/bg_02, @color/brand, @color/cl37, @color/text_01, @color/web_title_btn, @color/white
+styles: @style/style_title_text

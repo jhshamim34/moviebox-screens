@@ -1,0 +1,4 @@
+Values referenced by this screen:
+colors: @color/bg_01, @color/border, @color/gray_40, @color/white
+styles: @style/style_import_text, @style/style_regular_text
+strings: @string/appbar_scrolling_view_behavior, @string/movie_detail_more_details

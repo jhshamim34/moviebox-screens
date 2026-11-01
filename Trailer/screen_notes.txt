@@ -1,0 +1,4 @@
+Values referenced by this screen:
+colors: @color/black_50, @color/cl31_50_p, @color/main, @color/main_gradient_center, @color/main_gradient_end, @color/main_gradient_start, @color/transparent, @color/white, @color/white_10, @color/white_30, @color/white_60, @color/white_80
+styles: @style/style_medium_small_text, @style/style_medium_text, @style/style_regular_text
+strings: @string/downloading_play_load_failed, @string/go_to_setting, @string/post_loading, @string/retry_text

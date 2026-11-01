@@ -1,0 +1,4 @@
+Values referenced by this screen:
+colors: @color/white_20
+styles: @style/style_import_text
+strings: @string/back, @string/subscriptions_my_list

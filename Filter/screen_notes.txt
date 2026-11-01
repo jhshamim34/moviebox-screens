@@ -1,0 +1,4 @@
+Values referenced by this screen:
+colors: @color/bg_04, @color/module_01, @color/text_01
+styles: @style/style_medium_text
+strings: @string/filter

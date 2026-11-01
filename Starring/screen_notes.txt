@@ -1,0 +1,5 @@
+Values referenced by this screen:
+colors: @color/text_01
+styles: @style/style_medium_text
+dimens: @dimen/dp_8
+strings: @string/starring

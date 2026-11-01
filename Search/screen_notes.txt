@@ -1,0 +1,5 @@
+Values referenced by this screen:
+colors: @color/ad_line, @color/ad_white_6, @color/base_color_999999, @color/bg_01, @color/border, @color/brand, @color/brand_new_50, @color/gray_dark_00, @color/gray_dark_10, @color/line_01, @color/main, @color/text_01, @color/text_03, @color/transparent, @color/white, @color/white_100, @color/white_6, @color/white_60, @color/white_80
+styles: @style/roundStyle_4, @style/style_import_text, @style/style_medium_text, @style/style_progress, @style/style_regular_text, @style/style_title_text
+dimens: @dimen/dimens_24, @dimen/dp_12, @dimen/text_size_14
+strings: @string/appbar_scrolling_view_behavior, @string/clear, @string/everyone_search_title, @string/search, @string/search_clear, @string/search_hint_input, @string/search_recent, @string/str_ranking

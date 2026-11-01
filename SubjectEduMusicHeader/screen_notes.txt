@@ -1,0 +1,5 @@
+Values referenced by this screen:
+colors: @color/line_01, @color/text_01, @color/white_60
+styles: @style/style_import_text, @style/style_regular_text
+dimens: @dimen/dp_4
+strings: @string/str_info

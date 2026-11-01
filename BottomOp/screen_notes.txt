@@ -1,0 +1,4 @@
+Values referenced by this screen:
+colors: @color/line_01, @color/text_01, @color/white_80
+dimens: @dimen/dp_12, @dimen/text_size_16
+strings: @string/search_hint_music

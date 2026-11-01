@@ -1,0 +1,4 @@
+Values referenced by this screen:
+colors: @color/cl31, @color/cl38, @color/gray_0_1
+styles: @style/style_import_text, @style/style_medium_text, @style/style_regula_bigger_text
+strings: @string/Save

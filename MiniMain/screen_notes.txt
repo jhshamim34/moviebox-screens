@@ -1,0 +1,3 @@
+Values referenced by this screen:
+colors: @color/mini_black60
+dimens: @dimen/mini_dp_12, @dimen/mini_dp_16, @dimen/mini_dp_2, @dimen/mini_dp_20, @dimen/mini_dp_27, @dimen/mini_dp_60, @dimen/mini_dp_90, @dimen/mini_dp_m_8

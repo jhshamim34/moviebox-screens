@@ -1,0 +1,4 @@
+Values referenced by this screen:
+colors: @color/text_01
+styles: @style/style_extra_import_text
+strings: @string/in_current_region

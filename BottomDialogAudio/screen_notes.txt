@@ -1,0 +1,3 @@
+Values referenced by this screen:
+colors: @color/border, @color/text_01, @color/text_03
+strings: @string/str_close

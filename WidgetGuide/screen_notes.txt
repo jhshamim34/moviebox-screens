@@ -1,0 +1,4 @@
+Values referenced by this screen:
+colors: @color/gray_dark_00, @color/white, @color/white_80
+styles: @style/style_text_400, @style/style_text_600, @style/style_text_700
+strings: @string/widget_add_guide_tips_1, @string/widget_add_guide_tips_2, @string/widget_add_guide_tips_3, @string/widget_add_guide_tips_4, @string/widget_add_guide_tips_5, @string/widget_add_guide_tips_6, @string/widget_add_guide_tips_end, @string/widget_long_press, @string/widget_swipe, @string/widget_tap

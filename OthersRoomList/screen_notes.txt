@@ -1,0 +1,2 @@
+Values referenced by this screen:
+strings: @string/profile_my_room

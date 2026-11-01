@@ -1,0 +1,4 @@
+Values referenced by this screen:
+colors: @color/base_white_70_p, @color/bg_02, @color/border, @color/brand, @color/cl01, @color/cl33, @color/cl37, @color/cl38, @color/cl45_30_p, @color/text_01, @color/transparent, @color/white_ff_e
+styles: @style/circle_style, @style/roundStyle_8, @style/style_import_text, @style/style_regula_bigger_text, @style/style_regular_text, @style/style_tab_layout
+strings: @string/appbar_scrolling_view_behavior, @string/member_count_check_in, @string/str_edit

@@ -1,0 +1,5 @@
+Values referenced by this screen:
+colors: @color/base_color_black, @color/bg_01, @color/brand_new_50, @color/color_2FF58B, @color/gray_dark_00, @color/line_01, @color/resources_button_color, @color/subtitle_text_tips, @color/text_01, @color/text_02, @color/white, @color/white_10, @color/white_20, @color/white_60, @color/white_80
+styles: @style/SystemBarTint_Style, @style/robot_bold, @style/robot_medium, @style/style_import_text, @style/style_medium_small_text, @style/style_medium_text, @style/style_regula_bigger_text, @style/style_regular_text
+dimens: @dimen/text_size_12, @dimen/text_size_14
+strings: @string/Select_language, @string/all, @string/bilingual, @string/download_series_all_episodes, @string/download_video_detail_seasons, @string/movie_uploaded_by, @string/no_subtitle_again, @string/no_subtitle_tip, @string/profile_crop_confirm, @string/select, @string/select_language, @string/subtitle, @string/subtitle_delay, @string/subtitle_download_online, @string/subtitle_download_subtitle, @string/subtitle_search, @string/subtitle_style, @string/subtitle_subtitle_delay, @string/video_detail_resources

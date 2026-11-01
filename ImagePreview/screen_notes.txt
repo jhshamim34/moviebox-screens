@@ -1,0 +1,4 @@
+Values referenced by this screen:
+colors: @color/mini_color_191a1c, @color/mini_color_dcdde2
+dimens: @dimen/mini_dp_0, @dimen/mini_dp_16, @dimen/mini_dp_20, @dimen/mini_dp_24, @dimen/mini_dp_36, @dimen/mini_dp_56, @dimen/mini_sp_16
+strings: @string/mini_image_select_done

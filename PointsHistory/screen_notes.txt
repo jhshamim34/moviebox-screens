@@ -1,0 +1,5 @@
+Values referenced by this screen:
+colors: @color/gray_dark_00, @color/white
+styles: @style/ImgRoundedStyle
+dimens: @dimen/dimens_48, @dimen/dp_10, @dimen/dp_12, @dimen/dp_16, @dimen/dp_2, @dimen/dp_20, @dimen/sp_16
+strings: @string/points_current_points

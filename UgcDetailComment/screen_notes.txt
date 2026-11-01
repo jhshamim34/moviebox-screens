@@ -1,0 +1,5 @@
+Values referenced by this screen:
+colors: @color/dialog_line, @color/text_02
+styles: @style/style_regular_text
+dimens: @dimen/text_size_16
+strings: @string/comment_hint_add

@@ -1,0 +1,5 @@
+Values referenced by this screen:
+colors: @color/black, @color/brand_new_gradient_center, @color/brand_new_gradient_end, @color/brand_new_gradient_start, @color/cl38, @color/gray_dark_00, @color/white_10, @color/white_80
+styles: @style/style_import_text, @style/style_regula_bigger_text
+dimens: @dimen/default_status_bar_height, @dimen/dp_12, @dimen/dp_16, @dimen/dp_4, @dimen/dp_56, @dimen/dp_8
+strings: @string/want_to_see_share

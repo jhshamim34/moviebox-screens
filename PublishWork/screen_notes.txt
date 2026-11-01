@@ -1,0 +1,5 @@
+Values referenced by this screen:
+colors: @color/color_2FF58B, @color/color_B2B2B2, @color/line_01, @color/text_01, @color/text_02, @color/white
+styles: @style/robot_bold, @style/robot_medium
+dimens: @dimen/dimens_24, @dimen/dp_12, @dimen/dp_6, @dimen/dp_8, @dimen/text_size_14, @dimen/text_size_16
+strings: @string/search, @string/search_hint_input, @string/search_publish_recent_title

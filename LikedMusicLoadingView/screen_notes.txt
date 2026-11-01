@@ -1,0 +1,3 @@
+Values referenced by this screen:
+colors: @color/module_01
+styles: @style/corner_style_4

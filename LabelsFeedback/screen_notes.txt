@@ -1,0 +1,5 @@
+Values referenced by this screen:
+colors: @color/gray_dark_00, @color/pair_EDF0F51, @color/pair_FFFFFF2
+styles: @style/robot_bold
+dimens: @dimen/dp_12, @dimen/dp_20
+strings: @string/submit

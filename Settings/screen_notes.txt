@@ -1,0 +1,4 @@
+Values referenced by this screen:
+colors: @color/brand_trans_20, @color/gray_dark_00, @color/text_01, @color/text_02, @color/white, @color/white_100, @color/white_20, @color/white_6, @color/white_80, @color/zxing_status_text, @color/zxing_transparent
+styles: @style/style_medium_text, @style/style_regular_text
+strings: @string/download_no_permission_btn, @string/download_no_permission_new_tips, @string/transfer_wifi_connect_please_place_qr_code_into_frame, @string/transfer_wifi_connect_scan_and_connect_device, @string/transfer_wifi_create_next, @string/ugc_imm_video_setting_autoplay, @string/ugc_imm_video_setting_clean_mode, @string/ugc_imm_video_setting_quality, @string/ugc_imm_video_setting_speed, @string/ugc_imm_video_setting_subtitle, @string/user_center_device_management_title

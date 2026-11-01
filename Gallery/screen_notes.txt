@@ -1,0 +1,5 @@
+Values referenced by this screen:
+colors: @color/bg_01, @color/color_2FF58B, @color/line_01, @color/resources_button_color, @color/text_01, @color/text_02
+styles: @style/SystemBarTint_Style, @style/robot_bold, @style/robot_medium
+dimens: @dimen/text_size_12, @dimen/text_size_14
+strings: @string/profile_crop_confirm, @string/select

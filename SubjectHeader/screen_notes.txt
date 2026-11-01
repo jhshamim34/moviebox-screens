@@ -1,0 +1,5 @@
+Values referenced by this screen:
+colors: @color/gray_40, @color/gray_dark_40, @color/text_01, @color/white_60, @color/white_80, @color/yellow_dark_50
+styles: @style/roundStyle_4, @style/style_import_text, @style/style_regular_text
+dimens: @dimen/dimens_12, @dimen/dp_4
+strings: @string/str_info

@@ -1,0 +1,4 @@
+Values referenced by this screen:
+colors: @color/white, @color/white_10
+styles: @style/style_medium_text
+strings: @string/subtitle_audio

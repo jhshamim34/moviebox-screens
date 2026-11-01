@@ -1,0 +1,4 @@
+Values referenced by this screen:
+colors: @color/common_white, @color/gray_40, @color/text_01, @color/text_02, @color/text_05, @color/text_06
+styles: @style/style_medium_text
+strings: @string/hint_movie_tv, @string/request_movies_or_tv_shows, @string/submit

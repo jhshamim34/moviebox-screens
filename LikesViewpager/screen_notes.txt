@@ -1,0 +1,4 @@
+Values referenced by this screen:
+colors: @color/white, @color/white_20, @color/white_80
+styles: @style/TabTextStyle, @style/style_import_text
+strings: @string/back, @string/my_likes

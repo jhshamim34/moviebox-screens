@@ -1,0 +1,5 @@
+Values referenced by this screen:
+colors: @color/base_color_333333, @color/base_color_999999, @color/base_color_f7f7f7, @color/bg_01, @color/color_191F2B, @color/color_4c9ffe, @color/color_eeeeee, @color/color_ff999999, @color/transparent, @color/white, @color/white_80
+styles: @style/RadingStyle, @style/style_regular_text
+dimens: @dimen/dp_12
+strings: @string/cover_save_add, @string/film_review_click_stars, @string/film_review_des_hint, @string/film_review_title_hint

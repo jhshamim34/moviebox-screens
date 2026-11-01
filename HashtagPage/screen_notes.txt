@@ -1,0 +1,5 @@
+Values referenced by this screen:
+colors: @color/bg_01, @color/brand, @color/text_01, @color/white_80
+styles: @style/home_movie_style_divider1_two_column, @style/home_movie_style_divider2, @style/home_movie_style_divider3, @style/style_regular_text
+dimens: @dimen/dp_8, @dimen/sp_14
+strings: @string/home_reset_text, @string/no_filter_result

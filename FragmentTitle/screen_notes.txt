@@ -1,0 +1,2 @@
+Values referenced by this screen:
+colors: @color/bg_01

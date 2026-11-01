@@ -1,0 +1,5 @@
+Values referenced by this screen:
+colors: @color/prize_flow_bg, @color/rewards_center_bg, @color/task_gradient_end, @color/task_white, @color/task_yellow, @color/transparent, @color/white, @color/white_40, @color/white_70, @color/yellow_light_50
+styles: @style/ImgRoundedStyle, @style/style_text_400, @style/style_text_600, @style/style_text_700
+dimens: @dimen/dimens_48, @dimen/dp_12, @dimen/dp_2, @dimen/dp_4, @dimen/dp_6, @dimen/dp_8, @dimen/sp_16, @dimen/text_size_14
+strings: @string/rc_term_condition, @string/rc_term_condition_content

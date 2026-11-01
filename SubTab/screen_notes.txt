@@ -1,0 +1,4 @@
+Values referenced by this screen:
+colors: @color/bg_02, @color/skeleton
+styles: @style/home_skeleton_1, @style/home_skeleton_2, @style/home_skeleton_3, @style/home_skeleton_4, @style/home_skeleton_5, @style/home_skeleton_6, @style/style_progress
+dimens: @dimen/tab_bottom_show_height

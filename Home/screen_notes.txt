@@ -1,0 +1,5 @@
+Values referenced by this screen:
+colors: @color/bg_01, @color/bg_02, @color/brand_new_50, @color/common_white, @color/home_top_tab_selected_center, @color/home_top_tab_selected_end, @color/home_top_tab_selected_start, @color/line_01, @color/module_01, @color/skeleton, @color/text_01, @color/text_02, @color/transparent, @color/white, @color/white_100, @color/white_80
+styles: @style/home_skeleton_1, @style/home_skeleton_2, @style/home_skeleton_3, @style/home_skeleton_4, @style/home_skeleton_5, @style/home_skeleton_6, @style/style_import_text, @style/style_progress, @style/style_regula_bigger_text, @style/style_regular_text, @style/style_tab_layout
+dimens: @dimen/dp_12, @dimen/font_14, @dimen/tab_bottom_show_height, @dimen/text_size_14
+strings: @string/home_tab_movies_series, @string/home_tab_shorts, @string/search, @string/search_hint_input

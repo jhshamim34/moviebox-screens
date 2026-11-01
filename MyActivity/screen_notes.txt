@@ -1,0 +1,4 @@
+Values referenced by this screen:
+colors: @color/gray_0_1, @color/white_10, @color/white_100
+styles: @style/style_import_text
+strings: @string/my_activity

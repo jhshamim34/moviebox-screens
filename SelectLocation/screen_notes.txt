@@ -1,0 +1,4 @@
+Values referenced by this screen:
+colors: @color/bg_01, @color/text_01, @color/white_80
+styles: @style/style_import_text, @style/style_medium_text, @style/style_regula_bigger_text
+strings: @string/Your_location, @string/gps_tips, @string/gps_tips_btn, @string/gps_tips_title

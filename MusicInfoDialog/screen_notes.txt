@@ -1,0 +1,5 @@
+Values referenced by this screen:
+colors: @color/bg_01, @color/border, @color/white, @color/white_10, @color/white_60, @color/white_80
+styles: @style/circle_style, @style/style_import_text, @style/style_medium_text, @style/style_regular_text
+dimens: @dimen/dp_12, @dimen/dp_4
+strings: @string/movie_detail_more_details

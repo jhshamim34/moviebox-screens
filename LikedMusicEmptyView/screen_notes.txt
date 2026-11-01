@@ -1,0 +1,4 @@
+Values referenced by this screen:
+colors: @color/text_01, @color/text_02, @color/white
+styles: @style/style_import_text
+strings: @string/music_empty_tip_1, @string/music_empty_tip_2, @string/music_empty_tip_explore_now

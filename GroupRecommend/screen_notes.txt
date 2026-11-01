@@ -1,0 +1,4 @@
+Values referenced by this screen:
+colors: @color/base_color_999999, @color/brand, @color/line_01, @color/text_01, @color/text_03
+dimens: @dimen/text_size_14
+strings: @string/film_review_room, @string/search, @string/str_Cancel

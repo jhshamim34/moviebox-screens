@@ -1,0 +1,4 @@
+Values referenced by this screen:
+colors: @color/gray_dark_00, @color/white_100
+styles: @style/style_medium_text
+strings: @string/my_activity_tip, @string/user_login_premium_tip

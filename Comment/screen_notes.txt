@@ -1,0 +1,5 @@
+Values referenced by this screen:
+colors: @color/main, @color/text_01, @color/text_02
+styles: @style/style_medium_text
+dimens: @dimen/comment_input_bg_height
+strings: @string/comments, @string/post_loading

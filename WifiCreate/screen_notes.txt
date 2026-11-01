@@ -1,0 +1,4 @@
+Values referenced by this screen:
+colors: @color/brand, @color/text_01, @color/text_02, @color/text_03
+styles: @style/corner_style_4, @style/robot_medium
+strings: @string/transfer_wifi_connect_create_qr_error_tip, @string/transfer_wifi_connect_create_retry, @string/transfer_wifi_create_download_now, @string/transfer_wifi_create_send, @string/transfer_wifi_create_share_apk_link, @string/transfer_wifi_create_share_apk_qr_code, @string/transfer_wifi_create_waiting_for_receiver

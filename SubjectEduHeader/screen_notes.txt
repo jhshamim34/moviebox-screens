@@ -1,0 +1,4 @@
+Values referenced by this screen:
+colors: @color/gray_40, @color/text_01, @color/white_60, @color/white_80
+styles: @style/style_import_text, @style/style_regular_text
+strings: @string/str_info

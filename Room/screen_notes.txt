@@ -1,0 +1,3 @@
+Values referenced by this screen:
+colors: @color/gray_dark_00, @color/white, @color/white_10
+styles: @style/style_import_text

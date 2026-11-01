@@ -1,0 +1,5 @@
+Values referenced by this screen:
+colors: @color/black_0, @color/gray_dark_10, @color/white_10, @color/white_100, @color/white_40, @color/white_6, @color/white_80
+styles: @style/corner_style_4, @style/style_import_text, @style/style_regular_text
+dimens: @dimen/tab_bottom_show_height
+strings: @string/home_tv_no_content_yet

@@ -1,0 +1,3 @@
+Values referenced by this screen:
+colors: @color/bg_01_80, @color/bg_01_80_reverse, @color/black_80, @color/white, @color/white_6, @color/white_60, @color/white_80
+styles: @style/roundStyle_trending, @style/style_regular_text

@@ -1,0 +1,4 @@
+Values referenced by this screen:
+colors: @color/bg_01, @color/brand, @color/text_01, @color/text_02
+styles: @style/style_extra_import_text, @style/style_import_text
+strings: @string/device_or_user_information, @string/laboratory, @string/lane

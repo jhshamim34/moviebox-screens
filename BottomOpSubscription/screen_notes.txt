@@ -1,0 +1,5 @@
+Values referenced by this screen:
+colors: @color/text_01, @color/white_10, @color/white_80
+styles: @style/style_import_text
+dimens: @dimen/dp_12, @dimen/text_size_16
+strings: @string/search_hint_movie_series, @string/subscriptions_title

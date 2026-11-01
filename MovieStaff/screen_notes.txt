@@ -1,0 +1,4 @@
+Values referenced by this screen:
+colors: @color/black_30, @color/color_download_selector, @color/movie_staff_avatar_bg, @color/movie_staff_bg, @color/text_01, @color/transparent, @color/white, @color/white_60
+styles: @style/corner_style_2, @style/style_import_text, @style/style_regular_text
+strings: @string/appbar_scrolling_view_behavior, @string/movie_staff_filmography

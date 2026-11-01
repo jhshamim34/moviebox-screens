@@ -1,0 +1,3 @@
+Values referenced by this screen:
+colors: @color/cl01, @color/white
+strings: @string/film_review_next, @string/no_content, @string/select_image_grant_permission, @string/select_image_no_permission, @string/upload_select_photos_title

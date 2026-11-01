@@ -1,0 +1,5 @@
+Values referenced by this screen:
+colors: @color/ad_black, @color/ad_black_60, @color/ad_black_80, @color/ad_text_color, @color/ad_transparent, @color/ad_white, @color/ad_white_20, @color/ad_white_80, @color/black, @color/gray_dark_00, @color/hisavana_ad_color_787878, @color/white
+styles: @style/Widget.AppCompat.ProgressBar.Horizontal, @style/corner_style_20, @style/corner_style_8, @style/style_text_400, @style/style_text_700
+dimens: @dimen/ad_badge_height, @dimen/ad_badge_margin_left, @dimen/ad_disclaimer_height, @dimen/dimens_24, @dimen/dimens_48, @dimen/dp_5, @dimen/dp_6, @dimen/hisavana_ad_dimen_12, @dimen/hisavana_ad_dimen_12sp, @dimen/hisavana_ad_dimen_14sp
+strings: @string/hs_btn_skip, @string/hs_reward_download_btn, @string/interstitial_close

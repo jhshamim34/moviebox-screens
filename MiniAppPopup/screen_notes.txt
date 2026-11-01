@@ -1,0 +1,4 @@
+Values referenced by this screen:
+colors: @color/black, @color/white
+dimens: @dimen/dimens_24, @dimen/dp_16, @dimen/dp_4, @dimen/dp_8
+strings: @string/ratings, @string/size, @string/skip, @string/users

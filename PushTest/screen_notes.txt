@@ -1,0 +1,2 @@
+Values referenced by this screen:
+strings: @string/push_test_activate_push, @string/push_test_independent_group, @string/push_test_independent_no_group, @string/push_test_local_list, @string/push_test_normal_notification, @string/push_test_permanent_notification, @string/push_test_pull_local, @string/push_test_pull_local_mock, @string/push_test_simulate_schedule, @string/push_test_title_hint

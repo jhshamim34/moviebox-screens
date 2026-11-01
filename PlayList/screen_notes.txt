@@ -1,0 +1,3 @@
+Values referenced by this screen:
+colors: @color/common_white, @color/text_01
+styles: @style/style_import_text, @style/style_regula_bigger_text

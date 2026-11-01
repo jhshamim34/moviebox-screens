@@ -1,0 +1,4 @@
+Values referenced by this screen:
+colors: @color/brand_new_gradient_center, @color/brand_new_gradient_end, @color/brand_new_gradient_start, @color/gray_dark_20, @color/post_detail_top_bg, @color/resources_button_color, @color/text_01, @color/text_02, @color/transparent, @color/white, @color/white_20, @color/white_60, @color/white_80
+styles: @style/roundStyle_4, @style/style_extra_import_text, @style/style_import_text, @style/style_regular_text
+strings: @string/appbar_scrolling_view_behavior, @string/film_review_post, @string/x_members

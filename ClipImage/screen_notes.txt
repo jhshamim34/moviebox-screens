@@ -1,0 +1,4 @@
+Values referenced by this screen:
+colors: @color/cl01
+styles: @style/SystemBarTint_Style
+strings: @string/profile_crop_confirm

@@ -1,0 +1,2 @@
+Values referenced by this screen:
+No direct color, style, dimension, or string references were detected in its copied layouts.

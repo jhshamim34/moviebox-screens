@@ -1,0 +1,5 @@
+Values referenced by this screen:
+colors: @color/black_30, @color/color_download_selector, @color/movie_staff_avatar_bg, @color/movie_staff_bg, @color/text_01, @color/white, @color/white_60
+styles: @style/style_import_text, @style/style_regular_text
+dimens: @dimen/dimens_24, @dimen/dp_12, @dimen/dp_16, @dimen/dp_4
+strings: @string/starring

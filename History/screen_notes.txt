@@ -1,0 +1,4 @@
+Values referenced by this screen:
+colors: @color/download_history_line, @color/text_01, @color/text_02
+styles: @style/style_medium_text
+strings: @string/download_watch_history, @string/download_watch_history_all

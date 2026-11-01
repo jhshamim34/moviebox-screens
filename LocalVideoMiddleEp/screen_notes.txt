@@ -1,0 +1,4 @@
+Values referenced by this screen:
+colors: @color/bg_01, @color/line_01, @color/text_01
+styles: @style/style_import_text
+strings: @string/download_video_detail_resources

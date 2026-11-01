@@ -1,0 +1,2 @@
+Values referenced by this screen:
+strings: @string/anr_tip

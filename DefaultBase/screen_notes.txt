@@ -1,0 +1,3 @@
+Values referenced by this screen:
+colors: @color/bg_01, @color/bg_02, @color/brand, @color/skeleton
+dimens: @dimen/left_margin

@@ -1,0 +1,4 @@
+Values referenced by this screen:
+colors: @color/gray_dark_00
+styles: @style/style_main_btn_h42
+strings: @string/submit

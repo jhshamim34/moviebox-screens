@@ -1,0 +1,4 @@
+Values referenced by this screen:
+colors: @color/libui_main_btn_text_color_selector, @color/text_01, @color/text_02, @color/text_05
+styles: @style/circle_style, @style/style_title_text
+strings: @string/community_name, @string/community_profile, @string/community_profile_hint, @string/create_room_title, @string/str_comfirm

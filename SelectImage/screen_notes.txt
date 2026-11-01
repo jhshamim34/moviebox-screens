@@ -1,0 +1,5 @@
+Values referenced by this screen:
+colors: @color/bg_01, @color/color_2FF58B, @color/text_02, @color/transparent
+styles: @style/robot_bold
+dimens: @dimen/text_size_14
+strings: @string/no_content, @string/profile_crop_confirm, @string/select_image_grant_permission, @string/select_image_no_permission, @string/upload_select_photos_title
